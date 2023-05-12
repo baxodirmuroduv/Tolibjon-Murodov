@@ -44,10 +44,10 @@ Hello, I have been working with python programming language for 3 years.The reas
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.dev.to/gmailgmail39544" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
                           
